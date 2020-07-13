@@ -27,8 +27,10 @@ Source code files are organized chronologically. Main contents of each period:
 
 **Spring 2019** (4th semester, "[第4学期](https://github.com/jasha64/jasha64/tree/master/第4学期)") Databases; Introduction to Computer Systems; Python Programming
 
-**Fall 2019** (5th semester) Hardware Experiments; Computer Networks; My curriculum vitae in LaTeX; Natural Language Processing
+**Fall 2019** (5th semester) Hardware Experiments; Computer Networks; Natural Language Processing
 
 - Also includes miscellaneous files for my first trying LaTeX, LaTeX slides template in PowerPoint, etc.
 - 上过半学期计算机视觉，因老师讲课质量太差退课了
+
+**Spring 2020** (6th semester) Computer Architecture; My curriculum vitae in LaTeX
 

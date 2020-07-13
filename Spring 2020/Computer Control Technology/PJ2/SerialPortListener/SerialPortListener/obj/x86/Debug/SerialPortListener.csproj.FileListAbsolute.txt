@@ -1,0 +1,8 @@
+C:\Users\jasha\Desktop\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.exe
+C:\Users\jasha\Desktop\SerialPortListener\SerialPortListener\bin\Debug\SerialPortListener.pdb
+C:\Users\jasha\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csprojAssemblyReference.cache
+C:\Users\jasha\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.MainForm.resources
+C:\Users\jasha\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.Properties.Resources.resources
+C:\Users\jasha\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.csproj.GenerateResource.cache
+C:\Users\jasha\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.exe
+C:\Users\jasha\Desktop\SerialPortListener\SerialPortListener\obj\x86\Debug\SerialPortListener.pdb
