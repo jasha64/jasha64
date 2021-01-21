@@ -1,0 +1,14 @@
+{
+    "full_result": false,
+    "query_interval_error": 30,
+    "query_interval": 120,
+    "neea_id": "",
+    "password": "",
+    "ym": ["2020-09", "2020-08"],
+    "cities": [
+        "SHANGHAI_SHANGHAI"
+    ],
+    "cities_names": [
+        "%E4%B8%8A%E6%B5%B7"
+    ]
+}
