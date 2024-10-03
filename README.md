@@ -26,5 +26,3 @@ Contents:
 - Summer vacation 2020, ["Vanilla" Pipelined MIPS32 CPU](https://github.com/jasha64/vanilla-cpu) 
   - A high-performance pipelined MIPS32 CPU core with caches and TLB, capable of running PMON BIOS
   - "Vanilla" CPU is our work in the NSCSCC Contest [[Contest Website](http://www.nscscc.org/)], and won 2nd prize
-- Spring 2021, [Spiking Neural Network RTL Implementation](https://github.com/jasha64/SNN-FPGA)
-
